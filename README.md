@@ -1,3 +1,7 @@
+<td> <img src="https://user-images.githubusercontent.com/50789735/169423003-8120822b-af5d-400e-99fa-10386ad8a23f.jpg" alt="Drawing" style="width: 250px;"/> </td>
+
+
+
 ### Hi there! My name's Alex Thompson and I am an iOS developer. 
 
 Currently I am working on building up my skillset & knowledge by creating various projects utilising all kinds of different tools & layouts. 
