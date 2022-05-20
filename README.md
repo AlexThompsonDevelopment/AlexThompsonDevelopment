@@ -1,6 +1,5 @@
-<td> <img src="https://user-images.githubusercontent.com/50789735/169423003-8120822b-af5d-400e-99fa-10386ad8a23f.jpg" alt="Drawing" style="width: 250px;"/> </td>
 
-
+<a href="url"><img src="https://user-images.githubusercontent.com/50789735/169423003-8120822b-af5d-400e-99fa-10386ad8a23f.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 ### Hi there! My name's Alex Thompson and I am an iOS developer. 
 
