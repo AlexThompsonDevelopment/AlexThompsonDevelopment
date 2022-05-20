@@ -1,5 +1,5 @@
 
-<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/50789735/169433029-b8920b82-b1c7-4438-8596-c33145b17a80.jpg">
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/50789735/169433029-b8920b82-b1c7-4438-8596-c33145b17a80.jpg">
 
 
 # Hi there! My name's Alex Thompson, The App Nerd! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
