@@ -7,8 +7,9 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/appNerd-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appnerd/)
+[![Instagram](https://img.shields.io/badge/appNerd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/appnerd/)
+[![Gmail](https://img.shields.io/badge/Alex@appNerd.com.au-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:Alex@appNerd.com.au>)
 
 Currently I am working on building up my skillset & knowledge by creating various projects utilising all kinds of different tools & layouts. 
 
