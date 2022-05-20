@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/appNerd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/appnerd/)
 [![Gmail](https://img.shields.io/badge/Alex@appNerd.com.au-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:Alex@appNerd.com.au>)
 
-I am an iOS app developer specialising in Swift, primatility using programmatic UIKit. I am completely self taught, living in Brisbane, Australia & working on building up my skillset to help me break into the industry. 
+I am an iOS app developer specialising in Swift, primarily using programmatic UIKit. I am completely self taught, living in Brisbane, Australia & working on building up my skillset to help me break into the industry. 
 
 ---
 Currently: 
