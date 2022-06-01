@@ -2,7 +2,7 @@
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/50789735/169433029-b8920b82-b1c7-4438-8596-c33145b17a80.jpg">
 
 
-## Hi there! My name's Alex Thompson, The App Nerd! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## Hi there! My name's Alex Thompson, The App Nerd! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 
 [![LinkedIn](https://img.shields.io/badge/appNerd-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appnerd/)
